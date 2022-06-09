@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "CCJ",
+      "email": "juan@juan.cl",
+      "telefono": "123456",
+      "notas": "Excelente curso de react JS",
+      "id": 10
+    },
+    {
+      "nombre": "Charmander",
+      "empresa": "Nintendo",
+      "email": "char@nintendo.com",
+      "telefono": "12345",
+      "notas": "Pokemón tipo fuego",
+      "id": 11
+    },
+    {
+      "nombre": "Yoshi",
+      "empresa": "Nintendo",
+      "email": "yoshi@nintendo.com",
+      "telefono": "123456",
+      "notas": "Dinosaurio que ayuda a Mario y Luigi",
+      "id": 12
+    }
+  ]
+}

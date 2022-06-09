@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table {
+    border-collapse: collapse;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.contenedor-table {
+    padding: 0;
+}
+
+@media (min-width: 768px) { 
+    .contenedor-table {
+        padding: 40px;
+    }
+}
